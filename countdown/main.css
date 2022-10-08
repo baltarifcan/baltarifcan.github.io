@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    padding: 70px 50px;
+    background: #29290d;
+    font-family: "Helvetica Neue", "Open Sans", helvetica, arial, sans-serif;
+  }
+  #timer {
+    font-size: 3em;
+    font-weight: 100;
+    color: white;
+    text-shadow: 0 0 20px #ffd448;
+  }
+  #timer div {
+    display: inline-block;
+    min-width: 90px;
+  }
+  #timer div span {
+    color: #f1ddb1;
+    display: block;
+    font-size: 0.35em;
+    font-weight: 400;
+  }
+  .title{
+ 
+        font-size: 8em;
+        font-weight: 100;
+        color: white;
+        text-shadow: 0 0 20px #ffce48;
+      
+  }
+  
